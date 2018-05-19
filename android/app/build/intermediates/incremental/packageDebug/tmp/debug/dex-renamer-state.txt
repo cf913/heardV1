@@ -1,0 +1,4 @@
+#Fri May 11 22:00:27 AEST 2018
+base.0=/Users/cf913/Desktop/Projects/React/heard-v1/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
